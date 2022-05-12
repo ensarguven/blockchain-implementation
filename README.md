@@ -1,2 +1,2 @@
 # blockchain-implementation
-# Java kullanılarak blokzincir uygulaması gelitirme ödevi
+## Java kullanılarak blokzincir uygulaması geliştirme ödevi
